@@ -1,6 +1,6 @@
 # Hi there, i’m antonio-erick.
 
-#### I've been trying to build interesting things. So far, [this](https://antonio-erick.github.io/website/) is the only thing i have created.
+#### I've been trying to build cool things. So far, [this](https://antonio-erick.github.io/website/) is my only creation.
 #### My knowledge is mostly about `html`, `css` and `javascript`.
 
 
