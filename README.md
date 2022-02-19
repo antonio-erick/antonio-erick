@@ -3,8 +3,9 @@
 
 # Hi there, i’m antonio-erick.
 
-#### I've been trying to build cool things. So far, [this](https://antonio-erick.github.io/website/) is my only creation.
+#### I think about building cool things. So far, [this](https://antonio-erick.github.io/website/) is my only creation.
 #### My knowledge is mostly about `html`, `css` and `javascript`.
+#### I'm *giting* good at `git`. *Git* it?
 
 
 ### Some useful information:
