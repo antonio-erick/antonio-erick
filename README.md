@@ -1,5 +1,5 @@
-[![Twitter Follow](https://img.shields.io/twitter/follow/im_antonioerick?label=Follow&style=for-the-badge&logo=twitter)](https://twitter.com/im_antonioerick)
-[![Reddit Follow](https://img.shields.io/twitter/follow/im_antonioerick?label=Follow&style=for-the-badge&logo=reddit)](https://www.reddit.com/user/antonio-erick)
+[![Twitter Follow](https://img.shields.io/twitter/follow/im_antonioerick?label=Follow&logo=twitter)](https://twitter.com/im_antonioerick)
+[![Reddit Follow](https://img.shields.io/twitter/follow/im_antonioerick?label=Follow&logo=reddit)](https://www.reddit.com/user/antonio-erick)
 
 # Hi there, i’m antonio-erick.
 
