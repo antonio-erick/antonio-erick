@@ -7,6 +7,4 @@
 #### My knowledge is mostly about `html`, `css` and `javascript`.
 #### I'm *giting* good at `git`. *Git* it?
 
-
-### Some useful information:
-![](https://github.com/antonio-erick/github-stats/blob/master/generated/overview.svg)
+<a href="https://github.com/antonio-erick"><img alt="Tran Phu Quy's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=antonio-erick&bg_color=1F222E&color=F7F9F9&line=F7F9F9&point=F7F9F9&hide_border=true" /></a>
