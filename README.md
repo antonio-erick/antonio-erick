@@ -6,6 +6,6 @@
 ### I think computers are amazing. 
 I always had interest in technology since i was a child, now i spend most of my time programming. It's hard, but greatly gratifying. Oh, and it's awesome aswell.
 ### JavaScript is what i do.
-My current programming knowledge is mostly about JavaScript, HTML and CSS. React is the only JavaScript framework i use(for now, at least). 
+My current programming knowledge is mostly about JavaScript, Typescript, HTML and CSS. React is the only JavaScript framework i use(for now, at least). 
 
 ##### Wanna contact me? Send me an e-mail: antonioericksilvapereira@gmail.com
